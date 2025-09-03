@@ -7,7 +7,7 @@ Este proyecto es el frontend de una aplicación de gestión hotelera, desarrolla
 Para clonar este repositorio, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-git clone https://github.com/tu-usuario/GestionHotelera-front.git
+git clone https://github.com/ValentinaOmen/gesti-n-de-hoteles.git
 ```
 
 ## Cómo Descargar el Repositorio
